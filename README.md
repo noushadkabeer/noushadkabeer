@@ -41,7 +41,7 @@ Bridging **18+ years** of Enterprise Content Management (Alfresco SME, Documentu
 ---
 
 ### 📬 Connect With Me
-- 💼 **LinkedIn:** [linkedin.com/in/noushadkabeer](https://www.linkedin.com/in/noushad-kabeer-3864a015/)
+- 💼 **LinkedIn:** [linkedin.com/in/noushadkabeer](https://www.linkedin.com/in/noushad-kabeer/)
 - 🐙 **GitHub:** [github.com/noushadkabeer](https://github.com/noushadkabeer)
 - 📧 **Email:** noushad.kabeer@yahoo.com
 - 📍 Charlotte, NC
